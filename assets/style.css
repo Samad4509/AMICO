@@ -1,0 +1,7 @@
+.header-top-campaign {
+    background: linear-gradient(135deg, #f06, #4a90e2); /* Gradient from pink to blue */
+    padding: 10px;
+    position: relative;
+    color: white; /* Ensure text is readable on the gradient */
+    }
+    
